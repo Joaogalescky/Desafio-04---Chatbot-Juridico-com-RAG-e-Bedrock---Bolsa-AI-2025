@@ -1,0 +1,1 @@
+# Desafio-04---Chatbot-Juridico-com-RAG-e-Bedrock---Bolsa-AI-2025
